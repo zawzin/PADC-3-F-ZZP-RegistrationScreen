@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="lbl_user_click_timestamp">16sp</dimen>
+</resources>
